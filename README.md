@@ -1,6 +1,6 @@
 # Pre-populating Watermelon DB
 
-This React Native project demonstrates how to create a SQLite database with static data and migrate it to WatermelonDB on app startup.
+This React Native project demonstrates how we can populate watermelon db from bundled db (sqlite).
 
 ## Features
 
